@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Марина Моисеенко](https://up.htmlacademy.ru/adaptive/26/user/2015259).
-* Наставник: Павел Нюкало.
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
